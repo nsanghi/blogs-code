@@ -1,7 +1,3 @@
-# MADE
-A PyTorch implementation of MADE(Masked Autoencoder for Distribution Estimate).
+# Repository for all my blog codes
 
-This repository contains the code. For accompanying explanation and detailed theory - please refer to [this link](https://nsanghi.com/blog/made/).
-
-The code in this repository will follow the implementation from University of Berkeley's Deep Unsupervised Learning course which can be found [here](https://sites.google.com/view/berkeley-cs294-158-sp20/home).
-
+This repository contains all the codes I have used for my blogs
